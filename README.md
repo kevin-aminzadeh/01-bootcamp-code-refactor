@@ -2,15 +2,9 @@
 
 ![alt text](assets/images/screenshot.png)
 
-> <br>
 > <h2 align="center"><a  href="https://kevin-aminzadeh.github.io/01-bootcamp-code-refactor/">Live Demo</a></h2>
-> <br>
-
-<br>
 
 ## Table of Contents
-
----
 
 - [Introduction](#introduction)
 - [Overview](#overview)
@@ -19,21 +13,15 @@
 
 ## Introduction
 
----
-
 This project is an exercise in refactoring a pre-exisiting codebase in order to address given requirements or feature requests.
 
 The focus of this particular code refactor exercise is addressing accessibility concerns through the use of semantic HTML elements and attributes; while also reenforcing basic Git and CSS concepts.
 
 ## Overview
 
----
-
 Horiseon Social Solution Services, a fictional digital marketing agency, have presented the existing codebase for their website and requested that the code be refactored due to accessibility and technical SEO concerns with the current implementation.
 
 ## Approach
-
----
 
 To achieve the project's accessiblity and SEO goals, the following changes were made to the exisiting codebase:
 
@@ -64,7 +52,5 @@ To improve the reusability and maintainability of the project's CSS the followin
 - The existing styling rules and classes were updated with the aim of reducing duplication and encouraging modularity/reusability of components.
 
 ## License
-
----
 
 This project is licensed under the terms of the MIT license.
