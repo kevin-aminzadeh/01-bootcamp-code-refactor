@@ -2,7 +2,7 @@
 
 ![alt text](assets/images/screenshot.png)
 
-> <h2 align="center"><a  href="https://kevin-aminzadeh.github.io/01-bootcamp-code-refactor/">Live Demo</a></h2>
+> <h2 align="center"><a  href="https://kevin-aminzadeh.github.io/bootcamp-code-refactor/">Live Demo</a></h2>
 
 ## Table of Contents
 
